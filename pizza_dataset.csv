@@ -1,0 +1,173 @@
+no,name,type,ingredients,price,size,vegetarian,dairy,fish,ingredient_count
+F1,F1,Pizza,"tomato, cheese, ham, mushroom",42,lunch,False,True,False,4
+F2,F2,Pizza,"tomato, cheese, onion, mushroom",42,lunch,True,True,False,4
+F3,F3,Pizza,"tomato, cheese, pepperoni, peppers",42,lunch,False,True,False,4
+F4,F4,Pizza,"tomato, cheese, ham, pineapple",42,lunch,False,True,False,4
+F5,F5,Pizza,"tomato, cheese, onion, meat sauce",42,lunch,False,True,False,4
+F6,F6,Pizza,"tomato, cheese, onion, bacon",42,lunch,False,True,False,4
+F7,F7,Pizza,"tomato, cheese, minced meat, peppers",42,lunch,False,True,False,4
+F8,F8,Pizza,"cheese, potato, rosemary",42,lunch,True,True,False,3
+F9,F9,Pizza,"tomato, cheese, shawarma, onion",42,lunch,False,True,False,4
+F10,F10,Pizza,"tomato, cheese, chicken, peppers",42,lunch,False,True,False,4
+Ham,Ham,Panini,"cheese, lettuce, tomato slices, ham, dressing",37,lunch,False,True,False,5
+Vegetarian,Vegetarian,Panini,"cheese, lettuce, tomato slices, cucumber, mushroom, dressing",38,lunch,True,True,False,6
+Chicken,Chicken,Panini,"cheese, lettuce, tomato slices, chicken, dressing",40,lunch,False,True,False,5
+Chicken & Bacon,Chicken & Bacon,Panini,"cheese, lettuce, tomato slices, chicken, bacon, dressing",46,lunch,False,True,False,6
+Mortadella,Mortadella,Panini,"cheese, lettuce, tomato slices, mortadella, dressing",38,lunch,False,True,False,5
+Parma ham,Parma ham,Panini,"cheese, lettuce, parma ham, dressing",40,lunch,False,True,False,4
+Pastrami,Pastrami,Panini,"cheese, lettuce, pastrami, dressing",40,lunch,False,True,False,4
+Tuna,Tuna,Panini,"lettuce, tomato slices, tuna, dressing",40,lunch,False,True,True,4
+Shrimp,Shrimp,Panini,"lettuce, tomato slices, shrimp, dressing",40,lunch,False,True,True,4
+Italian Salami,Italian Salami,Panini,"cheese, lettuce, salami, dressing",40,lunch,False,True,False,4
+Chorizo,Chorizo,Panini,"cheese, lettuce, chorizo, dressing",40,lunch,False,True,False,4
+Pecorino & Salami,Pecorino & Salami,Panini,"rocket, pecorino, salami, pesto",42,lunch,False,True,False,4
+Pecorino & Parma,Pecorino & Parma,Panini,"rocket, pecorino, parma ham, pesto",43,lunch,False,True,False,4
+Pecorino & Bresaola,Pecorino & Bresaola,Panini,"rocket, pecorino, bresaola, pesto",40,lunch,False,True,False,4
+Bresaola & Sundried Tomato,Bresaola & Sundried Tomato,Panini,"rocket, parmesan, bresaola, sundried tomato, pesto",49,lunch,False,True,False,5
+Vitello,Vitello,Panini,"tomato slices, cheese, lettuce, vitello, dressing, rocket",43,lunch,False,True,False,6
+Bruschetta,Bruschetta,Starter,garlic bread,19,regular,True,False,False,1
+Bruschetta Gastronomia,Bruschetta Gastronomia,Starter,"garlic bread, cheese, tomato, pesto",26,regular,True,True,False,4
+Pane con carne e prezzemolo,Pane con carne e prezzemolo,Starter,"flatbread, minced meat, pesto, lemon",44,regular,False,False,False,4
+Carte da musica,Carte da musica,Starter,"flatbread, garlic, olive oil, parmesan",22,regular,True,True,False,4
+Carpaccio di bresaola,Carpaccio di bresaola,Starter,"bresaola, olive oil, rocket, parmesan",62,regular,False,True,False,4
+Rosemary potatoes,Rosemary potatoes,Starter,"potato, rosemary",30,regular,True,False,False,2
+Insalata Mista,Insalata Mista,Salad,mixed salad,40,regular,True,False,False,1
+Insalata di Pomodoro,Insalata di Pomodoro,Salad,"mixed salad, tomato, feta",40,regular,True,True,False,3
+Insalata di Cesare,Insalata di Cesare,Salad,"mixed salad, bacon, parmesan, egg, crostini, chicken, dressing",58,regular,False,True,False,7
+Shrimp salad,Shrimp salad,Salad,"mixed salad, shrimp, rocket, olive oil",48,regular,False,True,True,4
+Tuna salad,Tuna salad,Salad,"mixed salad, tuna, rocket, olive oil",46,regular,False,True,True,4
+Chicken salad,Chicken salad,Salad,"lettuce, chicken, rocket",48,regular,False,False,False,3
+Pasta Chicken salad,Pasta Chicken salad,Salad,"penne, peppers, egg, feta, chicken, peas, potato, pesto",58,regular,False,True,False,8
+Pasta Bacon salad,Pasta Bacon salad,Salad,"penne, bacon, cucumber, mushroom, chicken, potato, olive, pesto",58,regular,False,True,False,8
+1,Margherita,Pizza,"tomato, cheese",48,regular,True,True,False,2
+1,Margherita,Pizza,"tomato, cheese",84,family,True,True,False,2
+2,Paesana,Pizza,"tomato, cheese, onion, mushroom",54,regular,True,True,False,4
+2,Paesana,Pizza,"tomato, cheese, onion, mushroom",95,family,True,True,False,4
+3,Siciliana,Pizza,"tomato, cheese, anchovy, peppers, olive",54,regular,False,True,True,5
+3,Siciliana,Pizza,"tomato, cheese, anchovy, peppers, olive",54,family,False,True,True,5
+4,Capricciosa,Pizza,"tomato, cheese, ham, mushroom",57,regular,False,True,False,4
+4,Capricciosa,Pizza,"tomato, cheese, ham, mushroom",100,family,False,True,False,4
+5,Calzone,Pizza,"tomato, cheese, ham, mushroom",59,regular,False,True,False,4
+6,Cacciatore,Pizza,"tomato, cheese, salami, bacon, olive",61,regular,False,True,False,5
+6,Cacciatore,Pizza,"tomato, cheese, salami, bacon, olive",104,family,False,True,False,5
+7,Italiana,Pizza,"tomato, cheese, onion, meat sauce",57,regular,False,True,False,4
+7,Italiana,Pizza,"tomato, cheese, onion, meat sauce",100,family,False,True,False,4
+8,Vegetariana,Pizza,"tomato, cheese, mushroom, onion, asparagus, peppers, artichoke",61,regular,True,True,False,7
+8,Vegetariana,Pizza,"tomato, cheese, mushroom, onion, asparagus, peppers, artichoke",104,family,True,True,False,7
+9,Romana,Pizza,"tomato, cheese, onion, bacon, green peppers, egg",60,regular,False,True,False,6
+9,Romana,Pizza,"tomato, cheese, onion, bacon, green peppers, egg",103,family,False,True,False,6
+10,Hawaii,Pizza,"tomato, cheese, ham, pineapple",58,regular,False,True,False,4
+10,Hawaii,Pizza,"tomato, cheese, ham, pineapple",100,regular,False,True,False,4
+11,Mexicana,Pizza,"tomato, cheese, onion, green peppers, chili sauce, meat sauce",61,regular,False,True,False,6
+11,Mexicana,Pizza,"tomato, cheese, onion, green peppers, chili sauce, meat sauce",104,family,False,True,False,6
+12,Quattro Formaggi,Pizza,"tomato, cheese, cheese, cheese, cheese",59,regular,True,True,False,5
+12,Quattro Formaggi,Pizza,"tomato, cheese, cheese, cheese, cheese",103,family,True,True,False,5
+13,Peperoni,Pizza,"tomato, cheese, pepperoni, peppers",60,regular,False,True,False,4
+13,Peperoni,Pizza,"tomato, cheese, pepperoni, peppers",103,family,False,True,False,4
+14,Vadino,Pizza,"tomato, cheese, onion, asparagus, ham, tuna, egg",65,regular,False,True,True,7
+14,Vadino,Pizza,"tomato, cheese, onion, asparagus, ham, tuna, egg",108,family,False,True,True,7
+15,Quezzi,Pizza,"tomato, cheese, asparagus, artichoke, parma ham",64,regular,False,True,False,5
+15,Quezzi,Pizza,"tomato, cheese, asparagus, artichoke, parma ham",108,family,False,True,False,5
+16,Gorgonzola,Pizza,"tomato, cheese, gorgonzola, parma ham",64,regular,False,True,False,4
+16,Gorgonzola,Pizza,"tomato, cheese, gorgonzola, parma ham",108,family,False,True,False,4
+17,Marinara,Pizza,"tomato, cheese, shrimp, mussels, tuna",64,regular,False,True,True,5
+17,Marinara,Pizza,"tomato, cheese, shrimp, mussels, tuna",108,family,False,True,True,5
+18,Pastrami,Pizza,"tomato, cheese, gorgonzola, pastrami",64,regular,False,True,False,4
+18,Pastrami,Pizza,"tomato, cheese, gorgonzola, pastrami",108,family,False,True,False,4
+19,Pacone,Pizza,"tomato, cheese, gorgonzola, bacon, shrimp, asparagus",66,regular,False,True,False,6
+19,Pacone,Pizza,"tomato, cheese, gorgonzola, bacon, shrimp, asparagus",113,family,False,True,False,6
+20,Quattro Stagioni,Pizza,"tomato, cheese, mushroom, shrimp, ham, artichoke, peppers",68,regular,False,True,True,7
+20,Quattro Stagioni,Pizza,"tomato, cheese, mushroom, shrimp, ham, artichoke, peppers",115,family,False,True,True,7
+21,Shawarma,Pizza,"tomato, cheese, onion, shawarma",65,regular,False,True,False,4
+21,Shawarma,Pizza,"tomato, cheese, onion, shawarma",110,family,False,True,False,4
+22,Spinach & Gorgonzola,Pizza,"tomato, cheese, spinach, gorgonzola",63,regular,True,True,False,4
+22,Spinach & Gorgonzola,Pizza,"tomato, cheese, spinach, gorgonzola",107,family,True,True,False,4
+23,Spinach & Brie,Pizza,"tomato, cheese, spinach, brie",61,regular,True,True,False,4
+23,Spinach & Brie,Pizza,"tomato, cheese, spinach, brie",105,family,True,True,False,4
+24,Americana,Pizza,"tomato, cheese, onion, mushroom, strips of meat",63,regular,False,True,False,5
+24,Americana,Pizza,"tomato, cheese, onion, mushroom, strips of meat",115,family,False,True,False,5
+25,Pollo,Pizza,"tomato, cheese, chicken, peppers, green peppers",68,regular,False,True,False,5
+25,Pollo,Pizza,"tomato, cheese, chicken, peppers, green peppers",115,family,False,True,False,5
+26,Mortadella Rucola,Pizza,"tomato, cheese, tomato slices, mortadella, rocket",66,regular,False,True,False,5
+26,Mortadella Rucola,Pizza,"tomato, cheese, tomato slices, mortadella, rocket",113,family,False,True,False,5
+27,Pollo & Rucola,Pizza,"tomato, cheese, tomato slices, chicken, rocket",68,regular,False,True,False,5
+27,Pollo & Rucola,Pizza,"tomato, cheese, tomato slices, chicken, rocket",115,family,False,True,False,5
+28,Pesto,Pizza,"tomato, cheese, tomato slices, pesto",57,regular,True,True,False,4
+28,Pesto,Pizza,"tomato, cheese, tomato slices, pesto",100,family,True,True,False,4
+29,Pollo & Pesto,Pizza,"tomato, cheese, tomato slices, pesto, chicken",68,regular,False,True,False,5
+29,Pollo & Pesto,Pizza,"tomato, cheese, tomato slices, pesto, chicken",115,family,False,True,False,5
+30,Bianca,Pizza,"cheese, potato, bacon, rosemary",57,regular,False,True,False,4
+30,Bianca,Pizza,"cheese, potato, bacon, rosemary",100,family,False,True,False,4
+31,Spaghetti Bolognese,Pasta,"spaghetti, meat sauce, parmesan",55,regular,False,True,False,3
+32,Spaghetti Carbonara,Pasta,"spaghetti, bacon, egg, parmesan, cream sauce",60,regular,False,True,False,5
+33,Fettucine Bolognese,Pasta,"fettucine, meat sauce, parmesan",57,regular,False,True,False,3
+34,Fettucine alla Crema,Pasta,"fettucine, bacon, onion, peas, mushroom, cream sauce, parmesan",64,regular,False,True,False,7
+35,Fettucine al Gorgonzola,Pasta,"fettucine, gorgonzola",64,regular,True,True,False,2
+36,Fettucine al Salmone,Pasta,"fettucine, smoked salmon, cream sauce",66,regular,False,True,True,3
+37,Tortellini Bolognese,Pasta,"tortellini, meat sauce, parmesan",61,regular,False,True,False,3
+38,Tortellini alla Panna,Pasta,"tortellini, ham, onion, mushroom, cream sauce, parmesan",64,regular,False,True,False,6
+39,Tortellini al Gorgonzola,Pasta,"tortellini, gorgonzola",65,regular,True,True,False,2
+40,Lasagne,Pasta,"pasta, meat sauce",59,regular,False,True,False,2
+41,Ravioli al Forno,Pasta,"ravioli, meat sauce",67,regular,False,True,False,2
+42,Tortellini al Pesto,Pasta,"tortellini, ham, pesto",67,regular,False,True,False,3
+43,Tortellini Primavera,Pasta,"tortellini, zucchini, shrimp, cream sauce",68,regular,False,True,True,4
+44,Ravioli Emiliana,Pasta,"ravioli, parma ham, olive oil, onion, pesto, parmesan, cream sauce",72,regular,False,True,False,7
+45,Cannelloni vegetariani,Pasta,"cannelloni, spinach, ricotta, tomato, cheese",68,regular,True,True,False,5
+46,Ravioloni ai funghi di bosco con noci,Pasta,"ravioli, ricotta, spinach, mushroom, walnut, parmesan, cream sauce",69,regular,True,True,False,7
+47,Penne al tartufo e filetto,Pasta,"penne, vitello, truffle sauce, parmesan, mushroom, cream sauce",74,regular,False,True,False,6
+48,Pennette all amatriciana con carne,Pasta,"penne, tomato, onion, bacon, vitello, parmesan",69,regular,False,True,False,6
+49,Tronchetti di ricotta,Pasta,"tronchetti, spinach, ricotta, tomato, cheese",69,regular,True,True,False,5
+50,Pennette con porchetta e zucca,Pasta,"penne, slices of piglet, zucchini, pesto",69,regular,False,True,False,4
+51,Pennette con crema di tartufo e pancetta,Pasta,"penne, pancetta, truffle sauce",69,regular,False,True,False,3
+70,Diavola,Pizza,"tomato, cheese, minced meat, onion, chili",60,regular,False,True,False,5
+70,Diavola,Pizza,"tomato, cheese, minced meat, onion, chili",103,family,False,True,False,5
+71,Afrodite,Pizza,"tomato, cheese, potato, strips of meat, pesto, tomato slices",68,regular,False,True,False,6
+71,Afrodite,Pizza,"tomato, cheese, potato, strips of meat, pesto, tomato slices",115,family,False,True,False,6
+72,Melanzane,Pizza,"tomato, cheese, eggplant, zucchini, tomato slices, garlic",68,regular,True,True,False,6
+72,Melanzane,Pizza,"tomato, cheese, eggplant, zucchini, tomato slices, garlic",115,family,True,True,False,6
+73,La Sicilia,Pizza,"tomato, cheese, eggplant, feta, pesto, oregano",68,regular,True,True,False,6
+73,La Sicilia,Pizza,"tomato, cheese, eggplant, feta, pesto, oregano",115,family,True,True,False,6
+74,Calabrisella,Pizza,"tomato, cheese, zucchini, salami, pecorino",70,regular,False,True,False,5
+74,Calabrisella,Pizza,"tomato, cheese, zucchini, salami, pecorino",117,family,False,True,False,5
+75,Pizza a la Rikardo,Pizza,"tomato, cheese, eggplant, pecorino, minced meat, parsley",70,regular,False,True,False,6
+75,Pizza a la Rikardo,Pizza,"tomato, cheese, eggplant, pecorino, minced meat, parsley",117,family,False,True,False,6
+76,Al Salmone,Pizza,"tomato, cheese, smoked salmon, onion, rocket",70,regular,False,True,True,5
+76,Al Salmone,Pizza,"tomato, cheese, smoked salmon, onion, rocket",117,family,False,True,True,5
+77,Chorizo con peperoncino,Pizza,"tomato, cheese, chorizo, jalapeño, rocket, parmesan",70,regular,False,True,False,6
+77,Chorizo con peperoncino,Pizza,"tomato, cheese, chorizo, jalapeño, rocket, parmesan",117,family,False,True,False,6
+78,Valtellina,Pizza,"tomato, cheese, bresaola, rocket, parmesan",70,regular,False,True,False,5
+78,Valtellina,Pizza,"tomato, cheese, bresaola, rocket, parmesan",117,family,False,True,False,5
+79,Sole,Pizza,"mascarpone, cheese, smoked salmon, sundried tomato, spinach, rocket",78,regular,False,True,True,6
+79,Sole,Pizza,"mascarpone, cheese, smoked salmon, sundried tomato, spinach, rocket",126,family,False,True,True,6
+80,Condita,Pizza,"mascarpone, cheese, pastrami, sundried tomato, potato, pecorino",78,regular,False,True,False,6
+80,Condita,Pizza,"mascarpone, cheese, pastrami, sundried tomato, potato, pecorino",126,family,False,True,False,6
+81,Chitarrella,Pizza,"tomato, cheese, parmesan, rocket, pesto, salami, tomato slices",78,regular,False,True,False,7
+81,Chitarrella,Pizza,"tomato, cheese, parmesan, rocket, pesto, salami, tomato slices",126,family,False,True,False,7
+82,Straccitella,Pizza,"straccitella, broccoli, tomato slices, potato, vitello, truffle sauce",83,regular,False,True,False,6
+82,Straccitella,Pizza,"straccitella, broccoli, tomato slices, potato, vitello, truffle sauce",133,family,False,True,False,6
+82 special,Straccitella,Pizza,"straccitella, broccoli, tomato slices, potato, eggplant, truffle sauce",83,regular,True,True,False,6
+82 special,Straccitella,Pizza,"straccitella, broccoli, tomato slices, potato, eggplant, truffle sauce",133,family,True,True,False,6
+83,Vitello,Pizza,"tomato, cheese, vitello, onion, capers, rocket, pesto",72,regular,False,True,False,7
+83,Vitello,Pizza,"tomato, cheese, vitello, onion, capers, rocket, pesto",120,family,False,True,False,7
+84,Ventura,Pizza,"tomato, cheese, ricotta, spinach, mortadella, tomato slices",72,regular,False,True,False,6
+84,Ventura,Pizza,"tomato, cheese, ricotta, spinach, mortadella, tomato slices",120,family,False,True,False,6
+85,Tutta Bella,Pizza,"tomato, cheese, ricotta, eggplant, vitello",72,regular,False,True,False,5
+85,Tutta Bella,Pizza,"tomato, cheese, ricotta, eggplant, vitello",120,family,False,True,False,5
+86,Sant´Agata,Pizza,"tomato, cheese, spinach, pesto, salami, parmesan",72,regular,False,True,False,6
+86,Sant´Agata,Pizza,"tomato, cheese, spinach, pesto, salami, parmesan",120,family,False,True,False,6
+87,Speck e Rucola,Pizza,"tomato, cheese, smoked ham, pesto, parmesan, rocket",74,regular,False,True,False,6
+87,Speck e Rucola,Pizza,"tomato, cheese, smoked ham, pesto, parmesan, rocket",122,family,False,True,False,6
+88,Bella Genova,Pizza,"tomato, cheese, ham, salami, egg, bacon, pecorino",77,regular,False,True,False,7
+88,Bella Genova,Pizza,"tomato, cheese, ham, salami, egg, bacon, pecorino",126,family,False,True,False,7
+89,Ricotta e Salsiccia Fresca,Pizza,"cheese, ricotta, cherry tomato, onion, spinach, salsiccia",77,regular,False,True,False,6
+89,Ricotta e Salsiccia Fresca,Pizza,"cheese, ricotta, cherry tomato, onion, spinach, salsiccia",126,family,False,True,False,6
+90,Casereccia,Pizza,"tomato, cheese, salsiccia, mushroom, truffle sauce",82,regular,False,True,False,5
+90,Casereccia,Pizza,"tomato, cheese, salsiccia, mushroom, truffle sauce",132,regular,False,True,False,5
+91,Francese,Pizza,"tomato, cheese, ricotta, bresaola, chili, garlic, parsley, spicy cucumber relish, basil",77,regular,False,True,False,9
+91,Francese,Pizza,"tomato, cheese, ricotta, bresaola, chili, garlic, parsley, spicy cucumber relish, basil",126,regular,False,True,False,9
+92,Margherita e Mozzarella,Pizza,"tomato, mozzarella, basil",58,regular,True,True,False,3
+92,Margherita e Mozzarella,Pizza,"tomato, mozzarella, basil",103,family,True,True,False,3
+93,Pizza Porchetta,Pizza,"tomato, cheese, slices of piglet, potato, rocket, pesto",79,regular,False,True,False,6
+93,Pizza Porchetta,Pizza,"tomato, cheese, slices of piglet, potato, rocket, pesto",128,family,False,True,False,6
+94,Pancetta,Pizza,"tomato, cheese, pancetta, onion, spinach, sundried tomato, chicken",79,regular,False,True,False,7
+94,Pancetta,Pizza,"tomato, cheese, pancetta, onion, spinach, sundried tomato, chicken",128,family,False,True,False,7
